@@ -39,6 +39,13 @@
             <scope>system</scope>
             <systemPath>${basedir}/lib/importLocalRepo-0.0.1-SNAPSHOT.jar</systemPath>
         </dependency>
+
+
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>importNexusServer</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
