@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/importLocalRepo/importLocalRepo.iml" filepath="$PROJECT_DIR$/importLocalRepo/importLocalRepo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/importLocalRepository.iml" filepath="$PROJECT_DIR$/.idea/importLocalRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/importNexusServer/importNexusServer.iml" filepath="$PROJECT_DIR$/importNexusServer/importNexusServer.iml" />
     </modules>
   </component>
 </project>

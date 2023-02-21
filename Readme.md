@@ -36,6 +36,9 @@ now we can import and use package of importLocalRepo
 
 ![img_5.png](img_5.png)
 
+different between 2 `jar` file
+
+![img_19.png](img_19.png)
 
 # import repository by maven from NEXUS
 
